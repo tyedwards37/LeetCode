@@ -6,6 +6,8 @@
 
 class Solution {
 public:
+    #include <vector> 
+
     bool canPlaceFlowers(vector<int>& flowerbed, int n) 
     {
         if(n == 0)

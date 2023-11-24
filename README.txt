@@ -6,5 +6,5 @@ Started October 24th, 2023
 
 Description: Every day I will complete at least one LeetCode problem that I will publish here. I am starting out with the LeetCode 75 and moving onto the Top Interview 150.
 
-Daily Question Streak: 9
-Progress: LeetCode 75 - (31/75)
+Daily Question Streak: 10
+Progress: LeetCode 75 - (32/75)
